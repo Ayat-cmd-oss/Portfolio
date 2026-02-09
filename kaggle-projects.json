@@ -1,0 +1,12 @@
+[
+  {
+    "title": "House Price Prediction",
+    "description": "Regression model predicting house prices using Kaggle dataset.",
+    "link": "https://www.kaggle.com/"
+  },
+  {
+    "title": "Titanic Survival Analysis",
+    "description": "Exploratory data analysis and classification models.",
+    "link": "https://www.kaggle.com/"
+  }
+]
